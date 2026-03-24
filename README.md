@@ -94,6 +94,11 @@
 <!-- 🐍 NEON SNAKE -->
 
 ## 🐍 ACTIVITY TRACE
+## ⚡ ACTIVITY MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&bg_color=000000&color=00FFF7&line=00FFF7&point=FFFFFF&area=true&hide_border=true"/>
+</p>
 
 <p align="center">
 <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" />
