@@ -107,7 +107,7 @@
 ## 🌐 CONNECT
 
 <p align="center">
-<a href="https://t.me/USERNAME">
+<a href="https://t.me/zafar_77ll">
 <img src="https://img.shields.io/badge/ENTER%20CHANNEL-00FFF7?style=for-the-badge&logo=telegram&logoColor=black"/>
 </a>
 </p>
