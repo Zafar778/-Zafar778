@@ -1,4 +1,3 @@
-
 <!-- Header animated banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zafar%20Kodirov&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=18" width="100%"/>
@@ -27,7 +26,7 @@
 ## 🚀 About Me
 
 ```dart
-class ZafarKodirov {
+class Zafar778 {
   final String name     = "Zafar Kodirov";
   final int    age      = 16;
   final String location = "Uzbekistan 🇺🇿";
@@ -93,19 +92,19 @@ class ZafarKodirov {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZafarKodirov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=05070f&title_color=00e5ff&icon_color=a78bfa&text_color=94a3b8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafarKodirov&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070f&title_color=00e5ff&text_color=94a3b8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zafar778&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=05070f&title_color=00e5ff&icon_color=a78bfa&text_color=94a3b8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zafar778&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070f&title_color=00e5ff&text_color=94a3b8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZafarKodirov&theme=tokyonight&hide_border=true&background=05070f&stroke=00e5ff&ring=a78bfa&fire=f472b6&currStreakLabel=00e5ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zafar778&theme=tokyonight&hide_border=true&background=05070f&stroke=00e5ff&ring=a78bfa&fire=f472b6&currStreakLabel=00e5ff" />
 </div>
 
 <br/>
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZafarKodirov/ZafarKodirov/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Zafar778/Zafar778/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
@@ -150,13 +149,13 @@ class ZafarKodirov {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/zafar_77ll">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/ZafarKodirov">
+  <a href="https://github.com/Zafar778">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:zafarbekmuhammadkodirov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -166,10 +165,12 @@ class ZafarKodirov {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZafarKodirov&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Zafar778&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
 </div>
 
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
+
+
